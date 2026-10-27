@@ -1,0 +1,12 @@
+/* Custom Stylesheet */
+
+/* Mengatur tinggi hero section agar pas di layar */
+.hero {
+    height: 100vh;
+    padding-top: 56px; /* Memberi ruang untuk fixed navbar */
+}
+
+/* Sedikit efek transisi atau styling tambahan jika diperlukan */
+body {
+    scroll-behavior: smooth;
+}
